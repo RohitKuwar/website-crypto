@@ -121,7 +121,6 @@ export const CartCard = (props) => {
           }
           .cartcard-fnbutton{
             display: flex;
-            flex-direction: row;
             justify-content: space-evenly;
           }
         }
