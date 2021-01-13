@@ -115,7 +115,6 @@ export const CartCard = (props) => {
             flex-direction: column;
           }
           .cartcard-button{
-            display: flex;
             flex-direction: row;
             justify-content: space-evenly;
           }
